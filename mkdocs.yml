@@ -11,7 +11,7 @@ theme:
   palette: 
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: green
+      primary: blue
       toggle:
         icon: material/weather-night
         name: 暗色模式
