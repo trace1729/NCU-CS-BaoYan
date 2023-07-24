@@ -17,7 +17,7 @@ theme:
         name: 暗色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: green
+      primary: purple
       toggle:
         icon: material/weather-sunny
         name: 亮色模式
