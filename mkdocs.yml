@@ -8,21 +8,23 @@ theme:
   name: material
   language: zh
   highlightjs: true
-  palette:
+  palette: 
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: green
       toggle:
         icon: material/weather-night
         name: 暗色模式
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+      primary: green
       toggle:
         icon: material/weather-sunny
         name: 亮色模式
   features:
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/?h=nav#navigation-tabs
-    - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs
+    # - navigation.tabs.sticky
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer
 
  
@@ -63,3 +65,7 @@ extra_javascript:
   - javascripts/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+# extra_css:
+#   - stylesheets/extra.css
+
