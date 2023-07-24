@@ -1,4 +1,4 @@
-#   $\color{#FF0000}{红色字}$
+#   \color{#FF0000}{红色字}
 <font color=#00ff00>绿色</font>
 <font color=#0000ff>蓝色</font>
 $\color{#FF0000}{红色字}$ 南昌大学计算机保研资料
