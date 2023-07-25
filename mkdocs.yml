@@ -22,6 +22,7 @@ theme:
         icon: material/weather-sunny
         name: 亮色模式
   features:
+    - navigation.top
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/?h=nav#navigation-tabs
     # - navigation.tabs
     # - navigation.tabs.sticky
@@ -66,6 +67,6 @@ extra_javascript:
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
-# extra_css:
-#   - stylesheets/extra.css
+extra_css:
+  - stylesheets/status.css
 
