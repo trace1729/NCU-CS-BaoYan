@@ -1,8 +1,8 @@
 site_name: NCU-CS-保研仓库
-site_url: https://github.com/trace1729/ncucsbaoyan
+site_url: https://github.com/trace1729/NCU-CS-BaoYan
 
 repo_name: NCU-CS-BAOYAN 
-repo_url: https://github.com/trace1729/ncucsbaoyan
+repo_url: https://github.com/trace1729/NCU-CS-BaoYan
 
 theme:
   name: material
