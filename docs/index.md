@@ -75,7 +75,7 @@
     ??? tips
         可折叠
 
-2. 可以使用 `<span class="box box-XX">XXX</span>` 来给文字加背景, 比如
+2. 可以使用 `<span class="box box-颜色">文本</span>` 来给文字加背景, 比如green，red，yellow...
 
     - <span class="box box-green">过了</span>
     - <span class="box box-red">没有过</span>
