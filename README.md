@@ -6,3 +6,6 @@
 Created by Class of 2024.
 
 Website maintained by Kaichen Gong, Erhao Shu.
+
+网页基于 `mkdocs`， `mkdocs-matrial` 等开源项目，使用 `github action` 构建，通过 `github pages` 展示。 
+评论系统和主题设置参考了 [xuan的小站](https://xuan-insr.github.io/)

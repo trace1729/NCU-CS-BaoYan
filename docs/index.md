@@ -1,3 +1,7 @@
+---
+comments: true
+---
+
 # NCU-CS-保研求生指南
 
 ## 指南简介

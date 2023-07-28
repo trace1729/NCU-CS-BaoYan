@@ -27,6 +27,11 @@ theme:
     # - navigation.tabs
     # - navigation.tabs.sticky
     # https://squidfunk.github.io/mkdocs-material/setup/setting-up-the-footer/?h=footer
+  custom_dir: overrides
+  font:
+    text: Noto Serif SC # Roboto
+    code: Roboto Mono
+  
 
  
 # 版权
