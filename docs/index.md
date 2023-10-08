@@ -98,4 +98,4 @@ comments: true
 -->
 Created by Class of 2024.
 
-Website maintained by trace1729，Surehow19998.
+Website maintained by Trace1729，Surehow1998.
